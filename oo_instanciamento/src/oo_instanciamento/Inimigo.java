@@ -6,5 +6,5 @@ public class Inimigo {
 	
 	System.out.println
 	//inicar jogo
-	//coment agpra 14:50
+	//coment agpra 14:59
 }
