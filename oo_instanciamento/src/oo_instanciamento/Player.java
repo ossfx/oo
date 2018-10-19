@@ -2,9 +2,9 @@ package oo_instanciamento;
 
 public class Player {
 	
-	// comentario commit
+	public void iniciarJogador() {
+		System.out.println("Jogador iniciado");		
 	
-	iniciarjogador(_;
 	
-	
+}
 }
