@@ -9,5 +9,10 @@ public class Inimigo {
 	;//alçklksaklfkls
 	//psksdlkvnkdsnlkvbd
 	;//alçklksaklfkls
+	//lmslkflksdlkfnsd
+		//psksdlkvnkdsnlkvbd
+		;//alçklksaklfkls
+		//psksdlkvnkdsnlkvbd
+		;//alçklksaklfkls
 	
 }
